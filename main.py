@@ -4,11 +4,11 @@ import mediapipe as mp
 import itertools
 import numpy as np
 
-face_mesh = mp.solutions.face_mesh.FaceMesh(static_image_mode=False, max_num_faces=2, min_detection_confidence=0.5,
+face_mesh = mp.solutions.face_mesh.FaceMesh(static_image_mode=False, max_num_faces=3, min_detection_confidence=0.5,
                                             min_tracking_confidence=0.3)
-sonrisa_luismi = cv2.imread('/Users/josecarlos/PycharmProjects/semana_tec_filtro/assets/sonrisa_luismi.png')
-ojo_der = cv2.imread('/Users/josecarlos/PycharmProjects/semana_tec_filtro/assets/ojo_der.png')
-ojo_izq = cv2.imread('/Users/josecarlos/PycharmProjects/semana_tec_filtro/assets/ojo_izq.png')
+sonrisa_luismi = cv2.imread('./assets/sonrisa_luismi.png')
+ojo_der = cv2.imread('./assets/ojo_der.png')
+ojo_izq = cv2.imread('./assets/ojo_izq.png')
 
 
 def getSize(face_landmarks, INDEXES):

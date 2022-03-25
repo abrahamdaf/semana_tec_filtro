@@ -25,5 +25,5 @@ Este proyecto es dependiente de:
     
 ## Screenshots
 
-![App Screenshot]("assets/screen.png")
+![App Screenshot](assets/screen.png)
 

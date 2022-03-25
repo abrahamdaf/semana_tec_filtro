@@ -1,23 +1,29 @@
 # Semanta TEC Filtro
-se realizó un filtro de donde se colocaba en la cara del usuario la sonrisa de Luis Miguel y ojos llorosos
+
+Se realizó un filtro de donde se colocaba en la cara del usuario la sonrisa de Luis Miguel y ojos llorosos.
 
 
 ## Authors
--Abrham De Alba Franco 
+- [Abraham De Alba Franco](https://github.com/abrahamdaf)
 
--José Carlos Martínez Núñez
+- [José Carlos Martínez Núñez](https://github.com/josecarlosmemo)
 
--Alejandro Flores Madriz 
+- [Alejandro Flores Madriz](https://github.com/AlejandroFloresM02) 
 ## Installation
 
-Install my-project with npm
+Este proyecto es dependiente de:
+- Python 3.9
+- Opencv 4.5.5.64
+- Mediapipe 0.8.9.1
 
 ```bash
-  npm install my-project
-  cd my-project
+  # Instalamos Dependencias
+  pip3 install opencv-python mediapipe
+  # Corremos el Programa
+  python3 main.py
 ```
     
 ## Screenshots
 
-![App Screenshot](https://via.placeholder.com/468x300?text=App+Screenshot+Here)
+![App Screenshot]("assets/screen.png")
 

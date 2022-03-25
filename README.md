@@ -27,3 +27,8 @@ Este proyecto es dependiente de:
 
 ![App Screenshot](assets/screen.png)
 
+# Referencias
+
+Pysource. (25/03/2019).Pig's nose (Face instagram filters) - Opencv with Python . [Video]. Recuperado en https://www.youtube.com/watch?v=IJpTe-1cimE&t=285s
+
+Murtaza's Workshop - Robotics and AI.(25/03/2021).Hand Tracking 30 FPS using CPU | OpenCV Python (2021) | Computer Vision.[Video]. Recuperado en https://www.youtube.com/watch?v=NZde8Xt78Iw&t=2174s

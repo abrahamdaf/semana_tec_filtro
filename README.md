@@ -4,7 +4,9 @@ se realizó un filtro de donde se colocaba en la cara del usuario la sonrisa de 
 
 ## Authors
 -Abrham De Alba Franco 
+
 -José Carlos Martínez Núñez
+
 -Alejandro Flores Madriz 
 ## Installation
 

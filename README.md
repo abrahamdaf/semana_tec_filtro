@@ -1,13 +1,11 @@
 # Semanta TEC Filtro
-
-A brief description of what this project does and who it's for
+se realizó un filtro de donde se colocaba en la cara del usuario la sonrisa de Luis Miguel y ojos llorosos
 
 
 ## Authors
-
-- [@katherinepeterson](https://www.github.com/octokatherine)
-
-
+-Abrham De Alba Franco 
+-José Carlos Martínez Núñez
+-Alejandro Flores Madriz 
 ## Installation
 
 Install my-project with npm
